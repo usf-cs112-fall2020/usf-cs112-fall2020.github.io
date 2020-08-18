@@ -186,14 +186,14 @@ Meeting the pass requirements does not guarantee a passing grade. See the [Grade
 
 If you are meeting the [pass requirements](#pass-requirements), then your final letter grade for this class will be calculated as follows:
 
-| Percent | Category        |
-|--------:|:----------------|
-|      5% | Attendance      |
-|      5% | Participation   |
-|      5% | Quizzes         |
-|     10% | Exams           |
-|     15% | Homework        |
-|     60% | Projects        |
+| Percent | Category                    |
+|--------:|:----------------------------|
+|      5% | Attendance &  Participation |
+|      5% | Quizzes                     |
+|     30% | Exams                       |
+|     10% | Final coding interview      |
+|     15% | Labs                        |
+|     35% | Projects                    |
 {: class="table is-hoverable" style="width: auto;"}
 
 The assignments within each category are not necessarily equally weighted. For example, some participation assignments are worth more points than others.
@@ -224,13 +224,11 @@ Short quizzes are assigned throughout the week, sometimes at the start of class.
 
 There will be two exams. The exams are *not* comprehensive. See [Important Dates](#important-dates) for the exam dates. You must receive an average C letter grade or higher on at least one exam. See the [Pass Requirements](#pass-requirements) for more.
 
-Instead of a final exam, students will have a final coding interview graded during finals week.
+Instead of a final exam, students will have a individually scheduled final coding interview graded during finals week.
 
 #### Labs
 
 Lab programming assignments are assigned on a semi-weekly basis, and usually due the following week.
-
-Partial grades are given for lab assignments; grades will be proportional to the correctly implemented functionalities.
 
 #### Projects
 
@@ -293,6 +291,8 @@ Office hours will also be held via Zoom. Please make appointments [here](https:/
 
 Most asynchronous course-related communication will be handled using [Piazza]({{ site.data.info.links.piazza.link }})—a FERPA-compliant Q&A platform that supports public, anonymous, and private posts. When making posts on Piazza, please keep the following in mind:
 
+  - **Answering other students' questions on Piazza counts as Participation.** If you know the answer to someone else's question, please do answer. You can post the answer as an anonymous reply if you wish. The instructor can still see your name and will count towards your participation. 
+
   - **Search other posts first.** It is possible your question has already been asked and answered in another post. There is a search feature and you can use the folders to narrow posts to a single category.
 
   - **Make a public post when appropriate.** You can **post anonymously** if you prefer. Your classmates will not be able to see your identity for anonymous posts, but instructors will still be able to see your name. If you make a private post that should be public, you will be asked to create a new public anonymous post before receiving an answer.
@@ -323,12 +323,12 @@ Activities that are **synchronous** are those that occur live (in real-time) wit
 
   - Arrive on time and attend for the entire session.
   - Listen and dialog with each other respectfully.
-  - Participate in live polls and surveys in a timely manner.
-  - Need a break? Wait until the scheduled breaks if possible. There will either be two 10 minute breaks or one 15 minute break each lecture.
+  - Participate in breakroom activities.
+  - Need a break? Turn off the video and mute yourself.
 
 It will always be OPTIONAL whether you wish to enable your audio and/or video. When enabling your audio and/or video, keep in mind the following:
 
-  - The main livestream is sometimes recorded for students unable to attend live. If you enable your audio and/or video, it is possible it will be part of the password- protected recording.
+  - The main livestream is recorded for students unable to attend live. If you enable your audio and/or video, it is possible it will be part of the  recording.
   - Consider enabling your audio and video during small group breakout rooms or when asking a question live.
   - Keep your microphone muted unless speaking.
   - If you choose to enable your video, please make sure to present yourself appropriately (dressed as you would be in the classroom) and double-check your background environment (for example, clean up laundry, trash).
@@ -349,18 +349,16 @@ Activities that are **asynchronous** are those that occur outside of class time,
 
 ### Attendance Policy
 
-See the [Attendance](#attendance) requirement for this course. You are expected to be on-time to all live lectures and labs to minimize disruption.
+See the [Attendance](#attendance) requirement for this course. You are encouraged to be on-time to all live lectures to take the most advantage for your learning.
 
-Attend the section of lecture and lab for which you are registered. Keeping the class sizes balanced is important for interactive exercises. One-time exceptions on non-exam days are allowed with pre-approval.
-
-Attendance is mandatory for all one-on-one code review appointments. You must be on-time to these appointments. If you arrive more than 5 minutes late, the appointment will be canceled. You risk a grade penalty for repeated canceled or missed appointments.
+Attendance is mandatory for all office hour appointments. You must be on-time to these appointments. If you arrive more than 5 minutes late, the appointment will be canceled. You risk having a limited number of appointments per week for repeated canceled or missed appointments.
 
 ### Late Policy
 
-Except for projects, late submissions are not accepted.
+
 
 <i class="far fa-tired"></i>
-Don't worry---you may request an exception to this late policy in certain cases. See the [Policy Exceptions](#policy-exceptions) section for details.
+Late submissions are not accepted. ---you may request an exception to this late policy in certain cases. See the [Policy Exceptions](#policy-exceptions) section for details.
 {: .notification }
 
 ### Cheating Policy
@@ -380,9 +378,10 @@ Keep in mind that unauthorized collaboration or discussion that results in the s
 **Flagrant or repeat violations of the honor code will result in an F in the course, a report to the Academic Integrity Committee (AIC), and a report to the Dean.**{: .has-text-danger }
 At the discretion of the instructor, a less severe penalty may be imposed for minor or first offenses. This is at the sole discretion of the instructor and any violation may result in an F in the course.
 
+<!--
 <i class="fas fa-code-branch"></i>
 Keep in mind that there is a history of your code development on Github. Commit and push changes often to record your incremental code development.
-{: .notification }
+{: .notification }-->
 
 ### Credit Hour Policy
 
@@ -390,7 +389,7 @@ All courses must comply with the [Credit Hour Policy](https://myusf.usfca.edu/si
 
   > "One unit of credit in lecture, seminar, and discussion work should approximate one hour of direct faculty instruction and a minimum of two hours of out-of-class student work per week through one 15-week semester."
 
-As this is a 4 credit course, students must spend a **minimum** of 8 hours of out-of-class work per week to earn a non-failing (D&ndash; or higher) letter grade. To earn a passing C or higher letter grade (as required for the CS major and minor), students should expect to spend closer to **10 to 15 hours per week** on projects and assignments.
+As this is a 4 credit course, students must spend a **minimum** of 8 hours of out-of-class work per week to earn a non-failing (D&ndash; or higher) letter grade. To earn a passing C or higher letter grade (as required for the CS major and minor), students should expect to spend closer to **10 to 15 hours per week** on projects and labs.
 
 <i class="fas fa-hourglass-half"></i>
 Think of this class like a part-time job. If you do not put in the time, you will not make it to the final project. Many students do not pass due to poor time management!
@@ -401,19 +400,9 @@ Think of this class like a part-time job. If you do not put in the time, you wil
 
 Life sometimes (often?) interferes with learning. Several exceptions to course policies will be granted **automatically** upon request. These exceptions are requested by making a private post on [Piazza]({{ site.data.info.links.piazza.link }}) within the required timeframe. See the following sections for additional details.
 
-### Assignment Extension
+### One-Time Assignment Extension
 
-You may request to have a 48 hour extension on any participation, quiz, or homework assignment. This request will be automatically granted as long as (1) the assignment is in the appropriate category, (2) the request is made within 48 hours of the assignment deadline, and (3) you have not made any previous extension requests. This extension does not cover assignments in other categories, such as exams or projects.
-
-### Attendance Waiver
-
-You may request to have your attendance waived for any lecture that does not have a scheduled exam or retake. The waiver will be automatically granted if (1) it is made within 48 hours of the missed lecture, (2) there is not an exam or retake scheduled that day, and (3) you have not made any previous attendance waiver requests.
-
-### Extra Credit Request
-
-You may request one extra credit/makeup opportunity for assignments in the participation, homework, or project categories. You may earn up to 50% of the amount of points missed on that assignment. For example, suppose you earned 70 out of 100 points on an assignment, you can request an extra credit opportunity to make up 15 points. There is no time limit on when this request may be made.
-
-Only one request per semester will be automatically approved; choose wisely to maximize the impact on the final grade. Extra credit requests may not be made for quizzes or exams.
+You may request to have a 48 hour extension on any quiz, labs, or projects. This request will be automatically granted as long as (1) the assignment is in the appropriate category, (2) the request is made within 48 hours of the assignment deadline, and (3) you have not made any previous extension requests. This extension does not cover assignments in other categories, such as exams or final coding interview. Note that you can use this only once during the semester.
 
 ### Regret Clause
 
