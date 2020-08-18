@@ -12,13 +12,6 @@ links:
     icon: 'far fa-file-alt'
     link: '/syllabus.html'
     info: 'official course and university policies'
-<!--
-  github:
-    name: 'Github'
-    icon: 'fab fa-github-alt'
-    link: 'https://github.com/usf-cs212-fall2020'
-    info: 'lecture code, homework templates, and project tests'
-    line: true-->
 
   piazza:
     name: 'Piazza'
@@ -31,19 +24,6 @@ links:
     icon: 'far fa-school'
     link: 'https://usfca.instructure.com/courses/1596103'
     info: 'grades and assignment deadlines'
-<!--
-  polls:
-    name: 'Live Polls'
-    icon: 'far fa-poll-people'
-    link: 'https://PollEv.com/sjengle'
-    info: 'live anonymous polls'
-    line: true
-
-  suggestions:
-    name: 'Suggestion Box'
-    icon: 'far fa-box-ballot'
-    link: 'https://docs.google.com/forms/d/e/1FAIpQLSfCj9UrtNNz06GDqn5zeWHy57kSGjrU5tPshFGwbu8Xnm_9zQ/viewform?usp=sf_link'
-    info: 'anonymous course suggestions'-->
 
 streams:
   lecture1:
