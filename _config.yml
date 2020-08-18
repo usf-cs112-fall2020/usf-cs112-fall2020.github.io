@@ -1,10 +1,10 @@
-title: "CS 212 Software Development"
-subtitle: "CS 212-01, CS 212-02 &bullet; Fall 2020"
+title: "CS 112 Intro to CS II"
+subtitle: "CS 112-03 &bullet; Fall 2020"
 
-name: "Sophie Engle"
-timezone: "America/Los_Angeles"
+name: "EJ Jung"
+timezone: "America/San_Francisco"
 
-repository: "usf-cs212-fall2020/usf-cs212-fall2020.github.io"
+repository: "usf-cs112-fall2020/usf-cs112-fall2020.github.io"
 github: [metadata]
 
 kramdown:
@@ -43,28 +43,18 @@ collections:
     permalink: /guides/:collection/:name:output_ext
 
 description: >-
-   This course gives students experience with advanced programming topics, including inheritance and polymorphism, multithreaded programming, networking, database programming, and web development. Students will also learn techniques for designing, debugging, refactoring, and reviewing code.
-
+   Students will learn how to program in Java and also learn how to design and implement an intermediate-size program using Object-Oriented Design.
 links:
-   piazza: "https://piazza.com/usfca/fall2020/cs212/home"
-   canvas: "https://usfca.instructure.com/courses/1594619"
+   piazza: "https://piazza.com/usfca/fall2020/cs11203/home"
+   canvas: "https://usfca.instructure.com/courses/1596103"
    github: "https://github.com/usf-cs212-fall2020"
 
    zoom:
-     - name: "CS 212-01 Lecture"
-       link: ""
-
-     - name: "CS 212-02 Lecture"
-       link: ""
-
-     - name: "CS 212L-01 Lab"
-       link: ""
-
-     - name: "CS 212L-02 Lab"
+     - name: "CS 112-03 Lecture"
        link: ""
 
      - name: "Office Hours"
-       link: "https://usfca.zoom.us/j/98397885780"
+       link: "https://usfca.zoom.us/j/4154225422"
 
      - name: "TA Office Hours"
        link: ""
