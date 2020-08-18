@@ -29,7 +29,7 @@ This syllabus is similar to a contract between students and the instructor, and 
 
   - You must pass at least one midterm to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
 
-  - You must pass the final exam to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
+  - You must pass the final coding interview to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
 
   - Attendance is required one per week and late submissions are not accepted; but there are automatic exceptions granted for certain situations. See: [Policy Exceptions](#policy-exceptions)
 
@@ -82,11 +82,11 @@ The instructor and instructor office hours for this course will be:
         <div class="column">
           <strong>EJ Jung</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Tuesdays and Wednesdays, 12-1pm</span>
+          <span>Tuesdays and some Thursdays, 11:45am-12:45pm</span>
           <br/>
 
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>every other Thursdays, 12-1pm</span>
+          <span>Wednesdays, 12-1pm</span>
           <br/>
           
           <i class="fa-fw fas fa-calendar-alt "></i>
@@ -108,18 +108,16 @@ The instructor and instructor office hours for this course will be:
 The teacher assistant and teacher assistant office hours for this course will be posted on [Piazza]({{ site.data.info.links.piazza.link }}) at the start of the semester.
 
 <i class="fas fa-envelope-open-text"></i>
-See the [Communication Policy](#communication-policy) for how to contact the instructor and TAs.
+See the [Communication Policy](#communication-policy) for how to contact the instructor and TA.
 {: class="notification" markdown="1" }
 
 ### Prerequisites
 
-The prerequisite for this class is [CS 245 Data Structures and Algorithms](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186459) with a letter grade of C or higher. You may not take the prerequisite at the same time as this class.
-
-There is a lab corequisite of [CS 212L](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=189646) that you must take at the same time as this class.
+The prerequisite for this class is [CS 110 Intro to Computer Science I](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186443) with a letter grade of C or higher. You may not take the prerequisite at the same time as this class.
 
 ### Required Materials
 
-This course utilizes resources and software that are freely available for enrolled students. There are no required books.
+This course will use [Big Java:Early Objects 6th edition](https://www.wiley.com/en-us/Big+Java:+Early+Objects,+6th+Edition-p-9781119141594) as the textbook. The [4th edition of this book](https://go.oreilly.com/university-of-san-francisco/library/view/-/9780470509487/?ar) is freely available to enrolled students through USF library. This course utilizes software that are freely available for enrolled students, such as Java SDK and Eclipse. 
 
 ### Important Dates
 
@@ -130,21 +128,19 @@ Below are important dates relevant to this class:
 |    | 08/18 | Fall 2020 classes begin. |
 |    | 08/24 | Last day to add classes online. |
 |    | 09/04 | Census date; last day to drop without a "W" appearing on transcript. |
-| 🚩 | 09/29 | Exam 1; retake opportunity on Thursday. |
-| 🚩 | 10/29 | Project Cutoff; deadline to meet the [project pass requirement](#pass-requirements). |
+| 🚩 | 09/17 | Midterm 1; review session on Tuesday. |
 |    | 10/30 | Last day to withdraw from a class and receive a "W" on transcript. |
-| 🚩 | 11/17 | Exam 2; retake opportunity on Thursday. |
+| 🚩 | 10/22 | Midterm 2; rreview session on Tuesday. |
 |    | 11/23 | Beginning of a week-long Thanksgiving recess. |
 |    | 11/30 | Classes resume following Thanksgiving recess. |
-| 🚩 | 12/03 | Project Cutoff 2; deadline to pass project 2 design and project 3 functionality. |
 |    | 12/03 | Fall 2020 classes end. |
-|    | 12/04 | Finals begin; start of final code reviews. |
+| 🚩 | 12/04 | Finals begin; start of individual final coding interview. |
 {: class="table dates is-hoverable" style="width: auto;" }
 
 See the [official academic calendar](https://myusf.usfca.edu/registration/academic-calendar) for other important dates.
 
 <i class="fas fa-info-circle"></i>
-There will be an individually-scheduled final code review instead of a final exam during finals week.
+There will be an individually-scheduled final coding interview instead of a final exam during finals week.
 {: class="notification" markdown="1" }
 
 ## Learning and Assessment
@@ -156,23 +152,28 @@ This section covers the learning outcomes for this course and how they will be a
 
 At the end of this course, you should be able to:
 
-  - Independently design programs
-  - Produce professional-quality source code
-  - Implement large programs with 1,000 to 2,000 source lines of code (SLOC)
-  - Design and execute tests to find and repair software bugs
-  - Redesign and refactor code to improve quality
+  - Implement medium-sized Java programs with 500 to 1,000 source lines of code (SLOC)
+  - Describe, trace programs using, and implement programs using the following intermediate-level programming concepts:
+    - arrays 
+    - File I/O
+    - exception handling
+    - inheritance and object-oriented design principles
+    - built-in data structures and the Collections library
+    - sorting and searching
+    - recursion
+    - linked lists
 
-Assessment of these outcomes will be done by a combination of pass requirements, exams, homework, projects, and more. See [Grading Breakdown](#grading-breakdown) below for details.
+Assessment of these outcomes will be done by a combination of pass requirements, exams, labs, projects, and more. See [Grading Breakdown](#grading-breakdown) below for details.
 
 ### Pass Requirements
 
 To ensure you are meeting the [learning outcomes](#learning-outcomes) for this course, you must meet the following minimum requirements to receive a C or higher grade in this course:
 
-  - **Exam Pass Requirement:** Students must receive an average C letter grade or higher on at least one exam and its retake.
+  - **Midterm Pass Requirement:** Students must receive an average C letter grade or higher on at least one midterm.
 
-  - **Project Pass Requirement:** Students must pass project 1 functionality, project 1 design, and project 2 functionality BEFORE the withdraw deadline. The cutoff for this requirement is **October 29, 2020** and the withdraw deadline is **October 30, 2020** for the Fall 2020 semester.
+  - **Final Coding Interview Pass Requirement:** Students must receive an average C letter grade or higher on the final coding interview.
 
-**Failure to meet 1 or more of the following requirements will cap your letter grade for this course to C– maximum, regardless of whether you have a higher letter grade in Canvas.**
+**Failure to meet 1 or more of these requirements will cap your letter grade for this course to C– maximum, regardless of whether you have a higher letter grade in Canvas.**
 {: .has-text-danger }
 
 If you are concerned about not meeting one or more of these requirements by the withdraw deadline, you are encouraged to consult with the instructor. Your best option may be to withdraw from the class. Note, however, that a W (withdraw) counts as an attempt and CS majors and minors have restrictions on how many times they may attempt CS courses.
@@ -199,23 +200,21 @@ The assignments within each category are not necessarily equally weighted. For e
 
 Each of these categories are described more below.
 
-#### Attendance
+#### Attendance (Synchronous)
 
 You must attend and participate in *at least* one synchronous interaction per week.  The options are:
 
-  - **Lecture:** You should ideally attend and participate in the synchronous lecture via Zoom every Thursday. This includes participating in Zoom polls and breakout rooms.
+  - **Lecture:** You should ideally attend and participate in every synchronous lecture via Zoom. This includes answering questions during the Zoom meeting and participating in breakout rooms.
 
-  - **Alternatives:** You may alternatively attend lab or office hours with the instructor or teacher assistants. This must be a meaningful interaction, such as asking a question or having a discussion.
-
-Attending a code review appointment with the instructor does *not* count towards the weekly attendance requirement.
+  - **Alternatives:** You may alternatively watch the recording and attend office hours with the instructor or teacher assistant. This must be a meaningful interaction, such as asking a question or having a discussion.
 
 <i class="fas fa-exclamation-triangle"></i>
 Misrepresenting your attendance or participation is a violation of academic integrity. See the [Cheating Policy](#cheating-policy) for possible consequences.
 {: class="notification" markdown="1" }
 
-#### Participation
+#### Participation (Asynchronous)
 
-This includes pass/fail assignments for completing surveys and discussions on Piazza, participating in exercises during lecture or lab, and participating in CS-sponsored events.
+This includes pass/fail assignments for completing surveys and discussions on Piazza, and participating in CS-sponsored events. 
 
 #### Quizzes
 
@@ -223,29 +222,21 @@ Short quizzes are assigned throughout the week, sometimes at the start of class.
 
 #### Exams
 
-There will be two exams. The exams are *not* comprehensive. Each exam will have a retake opportunity. The exam score will be the average of the original and retake attempts. See [Important Dates](#important-dates) for the exact exam and exam retake dates. You must receive an average C letter grade or higher on at least one exam (including the retake). See the [Pass Requirements](#pass-requirements) for more.
+There will be two exams. The exams are *not* comprehensive. See [Important Dates](#important-dates) for the exam dates. You must receive an average C letter grade or higher on at least one exam. See the [Pass Requirements](#pass-requirements) for more.
 
-Instead of a final exam, students will have a final project graded during finals week.
+Instead of a final exam, students will have a final coding interview graded during finals week.
 
-#### Homework
+#### Labs
 
-Homework programming assignments are assigned on a semi-weekly basis, and usually due the following week. Students may work on these assignments during their lab session, allowing them to get immediate help from the teacher assistants.
+Lab programming assignments are assigned on a semi-weekly basis, and usually due the following week.
 
-Partial grades are not given for homework assignments; students must pass 100% of the provided tests to earn credit. If all of those tests pass before the deadline, the student will earn a 100% on that homework assignment.
+Partial grades are given for lab assignments; grades will be proportional to the correctly implemented functionalities.
 
 #### Projects
 
-Programming projects place an emphasis on code quality&mdash;it is not enough to achieve correct results. Each project must pass several functionality tests and then undergo multiple rigorous code reviews checking for specific criteria, such as proper encapsulation and generalization, efficiency, and maintainability.
+Programming projects are in fact milestones towards a single big project, guiding students through milestones. Each project will be graded not only in functionality but also in code quality. 
 
-We use a **mastery learning** approach with projects: students must perfect the current project before moving on to the next project. The final project grade will depend on when and how many projects are completed.
-
-Each project grade is split into two components: functionality (evaluated with automated software tests) and design (evaluated with one-on-one code reviews). The project functionality must be passed before the code review may be passed, students must pass code review for each project sequentially, and may only have at most one review appointment per week.
-
-The functionality grade depends on when the project passes the tests. Projects that pass the functionality tests by the deadline will receive a 100%. Otherwise, there will be a --10% late penalty for each week the project is late past the deadline up to a maximum --30% deduction.
-
-The design grade depends on when the project undergoes its first code review. Projects that have at least one code review by the deadline will receive a 100%. Otherwise, there will be a --10% late penalty for each week the first code review is late past the deadline up to a maximum --30% deduction. Abuse of the code review process may also result in deductions. For example, failing to fix all of the issues from a previous code review may result in a --5% to --10% deduction.
-
-You must pass project 1 functionality, project 1 design, and project 2 functionality BEFORE the withdraw deadline. See the [Pass Requirements](#{{ "Pass Requirements" | slugify }}) for details.
+Note that the earlier projects are basis for the later projects. If a student fails to complete project 1 by deadline, he or she will have extra work to finish project 1 before project 2 deadline. To enforce timely completion of each milestone, project deadlines are firm. 
 
 ### Grading Scale
 
@@ -277,10 +268,6 @@ table.gpa tbody tr:nth-child(n+9) {
 
 Non-passing grades for undergraduate CS majors and minors are highlighted in <strong class="has-text-danger">red</strong> text. See the [Undergraduate Student Regulations](https://catalog.usfca.edu/content.php?catoid=22&navoid=3097) for more about letter grades and GPA for undergraduate students.
 
-### Student Awards
-
-At the end of the semester, various awards will be given to students. While these awards are informal and do not impact your final grade, they do provide a way for students to differentiate themselves on resumes. Example awards include: top student askers and answerers on Piazza, and more.
-
 ## Course Policies
 {: .page-header }
 
@@ -296,13 +283,11 @@ Instead, please see how best to communicate depending on whether you wish to com
 
 The synchronous communication that would have occurred in-class will be conducted during the live lectures as follows:
 
-  - [Comment Box](https://PollEv.com/discourses/wTsFNpgkUScBoCcIbyQfI/respond): At the start of class and during breaks, the instructor will enable a poll that allows you to enter questions and comments anonymously.
-
   - [Raise Hand](https://support.zoom.us/hc/en-us/articles/115001286183): Use the "Raise Hand" feature in Zoom to get the instructor's attention. The instructor will pause and give you an opportunity to ask a question verbally or via the chat.
 
-  - [Meeting Chat](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat): Use the in-meeting "Chat" feature in Zoom to ask questions or make comments. These should be posted in the "Everyone" channel (not privately). If you do not want your name to appear in the main chat, you can privately chat the TA to post the question on your behalf instead.
+  - [Meeting Chat](https://support.zoom.us/hc/en-us/articles/203650445-In-Meeting-Chat): Use the in-meeting "Chat" feature in Zoom to ask questions or make comments. These should be posted in the "Everyone" channel (not privately). If you do not want your name to appear in the main chat, you can privately chat the instructor to post the question on your behalf instead.
 
-Office hours will also be held via Zoom. Requests will be taken on a first-come first-serve basis (i.e. no appointments). You may join individually or in groups. The instructor will create private breakout rooms to respond to questions as needed.
+Office hours will also be held via Zoom. Please make appointments [here](https://calendar.google.com/calendar/selfsched?sstoken=UUw3eEFUQWZvRVdFfGRlZmF1bHR8MjI5MzY5MzUwMmJhNTIwMjliMjRhOTU2YjgwMjIzODg). If you cannot make any of the available times, please send a private messsage on [Piazza]({{ site.data.info.links.piazza.link }}) with your availability for the next 3 days. 
 
 ##### Asynchronous Communication
 
@@ -312,7 +297,7 @@ Most asynchronous course-related communication will be handled using [Piazza]({{
 
   - **Make a public post when appropriate.** You can **post anonymously** if you prefer. Your classmates will not be able to see your identity for anonymous posts, but instructors will still be able to see your name. If you make a private post that should be public, you will be asked to create a new public anonymous post before receiving an answer.
 
-  - **Do not post code on Piazza.** If you have a question regarding your specific code, please commit and push your code to your GitHub repository and post a link. That ensures only those with access to your repository (instructor and teacher assistants) will see your code.
+  - **Do not post code publicly on Piazza.** If you have a question regarding your specific code, please post it as a private post to all instructors. This ensures only the instructor and TA will see your code.
 
   - **Make posts specific to solutions or grades private** to the instructor and teacher assistants. This replaces directly emailing the instructor regarding the course. If you email the instructor directly, you will be asked to make a private post on Piazza before receiving an answer.
 
@@ -321,8 +306,6 @@ Most asynchronous course-related communication will be handled using [Piazza]({{
   - **Post exact details when possible.** You will get a solution faster if you include as many details as possible when asking for help. This might include exact error messages, stack traces, which tests are failing and passing, console or log output, and more. If you forget, we will have to ask you for this detail which can extend how long it takes to get help.
 
 In addition to [Piazza]({{ site.data.info.links.piazza.link }}), the instructor will also use [Canvas]({{ site.data.info.links.canvas.link }}) to notify students of missing assignments or warn about low grades.
-
-This course also has an [anonymous suggestion box]({{ site.data.info.links.suggestions.link }}) where you can raise non-urgent concerns or suggestions.
 
 <i class="fas fa-exclamation-triangle"></i>
 **Under no circumstances should you reach out to the teacher assistants via any unapproved communication channel.** Instructors and teacher assistants must provide all students equal opportunity for course-related help. Using unapproved communication channels creates an unfair advantage over other students and will be treated as a violation of the [Student Conduct Code](https://myusf.usfca.edu/fogcutter).
