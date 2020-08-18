@@ -60,127 +60,100 @@ icons_special:
 
 projects:
   - project1f: &project1f
-      text: 'Project 1 Inverted Index'
+      text: 'Project 1 User Interface'
       icon: *icon_project
       type: 'has-text-usf-plum'
-      date: 2020-09-15
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987885'
-
-  - project1d: &project1d
-      text: 'Project 1 Code Review'
-      icon: *icon_project
-      type: 'has-text-usf-plum'
-      date: 2020-10-06
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987886'
+      date: 2020-09-14
+      link: 'https://usfca.instructure.com/courses/1596103'
 
   - project2f: &project2f
-      text: 'Project 2 Partial Search'
+      text: 'Project 2 Class Design'
       icon: *icon_project
       type: 'has-text-usf-plum'
-      date: 2020-10-06
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987887'
-
-  - project2d: &project2d
-      text: 'Project 2 Code Review'
-      icon: *icon_project
-      type: 'has-text-usf-plum'
-      date: 2020-10-27
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987888'
+      date: 2020-10-05
+      link: 'https://usfca.instructure.com/courses/1596103'
 
   - project3f: &project3f
-      text: 'Project 3 Multithreading'
+      text: 'Project 3 Data File Processing'
       icon: *icon_project
       type: 'has-text-usf-plum'
-      date: 2020-10-27
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987889'
-
-  - project3d: &project3d
-      text: 'Project 3 Code Review'
-      icon: *icon_project
-      type: 'has-text-usf-plum'
-      date: 2020-11-17
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987890'
+      date: 2020-10-26
+      link: 'https://usfca.instructure.com/courses/1596103'
 
   - project4f: &project4f
-      text: 'Project 4 Web Crawler'
+      text: 'Project 4 Movie Similarity Score'
       icon: *icon_project
       type: 'has-text-usf-plum'
-      date: 2020-11-17
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987891'
+      date: 2020-11-16
+      link: 'https://usfca.instructure.com/courses/1596103'
 
   - project4d: &project4d
-      text: 'Project 4 Search Engine'
+      text: 'Project 5 Movie Recommendation System'
       icon: *icon_project
       type: 'has-text-usf-plum'
-      date: 2020-12-08
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6987892'
+      date: 2020-12-01
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-homework:
-  - argumentmap: &argumentmap
+labs:
+  - lab1: &lab1
       text: 'ArgumentMap'
       icon: *icon_homework
-      date: 2020-08-28
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989465'
+      date: 2020-08-24
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - simplejsonwriter: &simplejsonwriter
+  - lab2: &lab2
       text: 'SimpleJsonWriter'
       icon: *icon_homework
-      date: 2020-09-04
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989466'
+      date: 2020-08-31
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - textfilestemmer: &textfilestemmer
+  - lab3: &lab3
       text: 'TextFileStemmer'
       icon: *icon_homework
-      date: 2020-09-11
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989467'
+      date: 2020-09-07
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - textfileindex: &textfileindex
+  - lab4: &lab4
       text: 'TextFileIndex'
       icon: *icon_homework
-      date: 2020-09-18
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989468'
+      date: 2020-09-28
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - textfilefinder: &textfilefinder
+  - lab5: &lab5
       text: 'TextFileFinder'
       icon: *icon_homework
-      date: 2020-09-25
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989471'
+      date: 2020-10-05
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - loggingsetup: &loggingsetup
+  - lab6: &lab6
       text: 'LoggingSetup'
       icon: *icon_homework
-      date: 2020-10-02
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989472'
+      date: 2020-10-12
+      link: 'https://usfca.instructure.com/courses/1596103'
 
-  - readwritelock: &readwritelock
+  - lab7: &lab7
       text: 'ReadWriteLock'
       icon: *icon_homework
-      date: 2020-10-16
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989473'
-
-  - primefinder: &primefinder
-      text: 'PrimeFinder'
+      date: 2020-10-19
+      link: 'https://usfca.instructure.com/courses/1596103'
+      
+  - lab8: &lab8
+      text: 'ReadWriteLock'
       icon: *icon_homework
-      date: 2020-10-23
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989474'
-
-  - linkparser: &linkparser
-      text: 'LinkParser'
+      date: 2020-11-02
+      link: 'https://usfca.instructure.com/courses/1596103'
+      
+  - lab9: &lab9
+      text: 'ReadWriteLock'
       icon: *icon_homework
-      date: 2020-10-30
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989475'
-
-  - htmlfetcher: &htmlfetcher
-      text: 'HtmlFetcher'
+      date: 2020-11-09
+      link: 'https://usfca.instructure.com/courses/1596103'
+            
+  - lab10: &lab10
+      text: 'ReadWriteLock'
       icon: *icon_homework
-      date: 2020-11-06
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989476'
-
-  - htmlcleaner: &htmlcleaner
-      text: 'HtmlCleaner'
-      icon: *icon_homework
-      date: 2020-11-13
-      link: 'https://usfca.instructure.com/courses/1594619/assignments/6989477'
+      date: 2020-11-16
+      link: 'https://usfca.instructure.com/courses/1596103'
 
 rows:
   - false
@@ -189,12 +162,11 @@ rows:
 weeks:
   - week: 1
     days:
-      - date: 2020-08-18
+      - date: 2020-08-19
         sections:
           - label: 'Livestream'
             items:
               - zoom: lecture1
-              - zoom: lecture2
 
           - label: 'Lecture (Live)'
             items:
@@ -222,24 +194,9 @@ weeks:
             dates: true
             items:
               - text: 'Courses Begin'
-                date: 2020-08-18
+                date: 2020-08-19
                 show: true
                 icon: *icon_date
-
-      - date: 2020-08-20
-        sections:
-          - label: 'Livestream'
-            items:
-              - zoom: lecture1
-              - zoom: lecture2
-
-          - label: 'Lecture (Live)'
-            items:
-              - text: 'File IO'
-                type: 'has-text-grey'
-
-              - text: 'Exceptions'
-                type: 'has-text-grey'
 
       - date: 2020-08-21
         sections:
