@@ -86,11 +86,16 @@ The instructor and instructor office hours for this course will be:
           <br/>
 
           <i class="fa-fw fas fa-calendar-alt "></i>
+          <span>every other Thursdays, 12-1pm</span>
+          <br/>
+          
+          <i class="fa-fw fas fa-calendar-alt "></i>
           <span>and by appointments</span>
           <br/>
 
+
           <i class="fa-fw fas fa-signal-stream "></i>
-          Zoom: <a href="{{ site.data.info.streams.instructor.link }}">{{ site.data.info.streams.instructor.room }}</a>
+          Appointment Calendar: <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUw3eEFUQWZvRVdFfGRlZmF1bHR8MjI5MzY5MzUwMmJhNTIwMjliMjRhOTU2YjgwMjIzODg">sign up here</a>
           <br/>
 
         </div>
