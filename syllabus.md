@@ -5,15 +5,15 @@ navbar: Syllabus
 layout: guides
 ---
 
-# CS 212 Software Development
+# CS 112-03 Intro to Computer Science II
 {: .title }
 
-#### Fall 2020 &bull; CS 212-01, CS 212-02 &bull; 4 Credits
+#### Fall 2020 &bull; CS 112-03 &bull; 4 Credits
 {: .subtitle .has-text-weight-light }
 
 {{ site.data.info.blurb }}
 
-[USF Catalog](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186456)
+[USF Catalog](https://catalog.usfca.edu/preview_course_nopop.php?catoid=22&coid=186444)
 {: .button .is-primary }
 
 
@@ -25,11 +25,11 @@ This syllabus is similar to a contract between students and the instructor, and 
 
   - You should be stuck for an hour on a problem before seeking help, but you should definitely seek help if you have been stuck for an hour. See: [Getting Help](#asynchronous-communication)
 
-  - Do not cheat. This includes working too closely with your classmates or the CS tutors. See: [Cheating Policy](#cheating-policy)
+  - Do not cheat. This includes working too closely with your classmates or the TA. See: [Cheating Policy](#cheating-policy)
 
-  - You must pass at least one exam to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
+  - You must pass at least one midterm to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
 
-  - You must make enough progress on projects to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
+  - You must pass the final exam to earn a C or higher letter grade in this class. See: [Pass Requirements](#pass-requirements)
 
   - Attendance is required one per week and late submissions are not accepted; but there are automatic exceptions granted for certain situations. See: [Policy Exceptions](#policy-exceptions)
 
@@ -48,59 +48,17 @@ This syllabus covers the following lecture sections:
 
 <div class="columns">
   <div class="column is-narrow">
-    <strong>CS 212-01 (CRN 41058)</strong><br/>
+    <strong>CS 112-03 (CRN 42558)</strong><br/>
     <i class="fa-fw fas fa-calendar-alt"></i>
-    <del>Tuesdays</del>, Thursdays<br/>
+    <del>Mondays</del>, Wednesdays<br/>
     <i class="fa-fw fas fa-clock"></i>
-    12:45pm &ndash; 2:30pm<br/>
+    7:30pm &ndash; 9:15pm<br/>
     <i class="fa-fw fas fa-signal-stream"></i>
     Zoom: <a href="{{ site.data.info.streams.lecture1.link }}">{{ site.data.info.streams.lecture1.room }}</a>
   </div>
-
-  <div class="column is-narrow">
-    <strong>CS 212-02 (CRN 41059)</strong><br/>
-    <i class="fa-fw fas fa-calendar-alt"></i>
-    <del>Tuesdays</del>, Thursdays<br/>
-    <i class="fa-fw fas fa-clock"></i>
-    4:35pm &ndash; 6:20pm<br/>
-    <i class="fa-fw fas fa-signal-stream"></i>
-    Zoom: <a href="{{ site.data.info.streams.lecture2.link }}">{{ site.data.info.streams.lecture2.room }}</a>
-  </div>  
 </div>
 
-Generally, Tuesday lectures will be replaced by asynchronous content and Thursday lectures will be held synchronously via Zoom. See the [course schedule]({{ "/schedule.html" | relative_url }}) for details.
-
-<i class="fas fa-info-circle"></i>
-See the [Attendance Policy](#attendance-policy) for whether you can attend a section you are not enrolled.
-{: class="notification" markdown="1" }
-
-### Lab Sections
-
-This syllabus covers the following lab sections:
-
-<div class="columns">
-  <div class="column is-narrow">
-    <strong>CS 212L-01 (CRN 41086)</strong><br/>
-    <i class="fa-fw fas fa-calendar-alt"></i>
-    Fridays<br/>
-    <i class="fa-fw fas fa-clock"></i>
-    3:30pm &ndash; 4:35pm<br/>
-    <i class="fa-fw fas fa-signal-stream"></i>
-    Zoom: <a href="{{ site.data.info.streams.lab1.link }}">{{ site.data.info.streams.lab1.room }}</a>
-  </div>
-
-  <div class="column is-narrow">
-    <strong>CS 212L-02 (CRN 41087)</strong><br/>
-    <i class="fa-fw fas fa-calendar-alt"></i>
-    Fridays<br/>
-    <i class="fa-fw fas fa-clock"></i>
-    4:45pm &ndash; 5:50pm<br/>
-    <i class="fa-fw fas fa-signal-stream"></i>
-    Zoom: <a href="{{ site.data.info.streams.lab2.link }}">{{ site.data.info.streams.lab2.room }}</a>
-  </div>  
-</div>
-
-After the first several weeks of the semester, lab times will convert to TA office hours and one-on-one code reviews with the instructor.
+Generally, the last 15 minutes of the lectures will be replaced by asynchronous content such as pre-recorded videos and quizzes. See the [course schedule]({{ "/schedule.html" | relative_url }}) for details.
 
 <i class="fas fa-info-circle"></i>
 See the [Attendance Policy](#attendance-policy) for whether you can attend a section you are not enrolled.
@@ -122,21 +80,19 @@ The instructor and instructor office hours for this course will be:
         </div>
 
         <div class="column">
-          <strong>Sophie Engle</strong><br/>
+          <strong>EJ Jung</strong><br/>
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Thursdays, 2:45pm &ndash; 4:15pm</span>
+          <span>Tuesdays and Wednesdays, 12-1pm</span>
           <br/>
 
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>Fridays, 11:00pm &ndash; 12:30pm</span>
+          <span>and by appointments</span>
           <br/>
 
           <i class="fa-fw fas fa-signal-stream "></i>
           Zoom: <a href="{{ site.data.info.streams.instructor.link }}">{{ site.data.info.streams.instructor.room }}</a>
           <br/>
 
-          <i class="fa-fw fas fa-globe "></i>
-          <a href="//sjengle.cs.usfca.edu">sjengle.cs.usfca.edu</a>
         </div>
       </div>
       <!-- end nested columns -->
