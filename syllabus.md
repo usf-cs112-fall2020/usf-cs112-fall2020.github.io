@@ -117,7 +117,7 @@ The prerequisite for this class is [CS 110 Intro to Computer Science I](https://
 
 ### Required Materials
 
-This course will use [Big Java:Early Objects 6th edition](https://www.wiley.com/en-us/Big+Java:+Early+Objects,+6th+Edition-p-9781119141594) as the textbook. The [4th edition of this book](https://go.oreilly.com/university-of-san-francisco/library/view/-/9780470509487/?ar) is freely available to enrolled students through USF library. This course utilizes software that are freely available for enrolled students, such as Java SDK and Eclipse. 
+This course will use [Big Java:Early Objects 7th edition](https://www.wiley.com/en-us/Big+Java%3A+Early+Objects%2C+7th+Edition-p-9781119499091) as the textbook. The [4th edition of this book](https://go.oreilly.com/university-of-san-francisco/library/view/-/9780470509487/?ar) is freely available to enrolled students through USF library. This course utilizes software that are freely available for enrolled students, such as Java SDK and Eclipse. 
 
 ### Important Dates
 
