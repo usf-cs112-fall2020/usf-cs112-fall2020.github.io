@@ -80,23 +80,23 @@ The instructor and instructor office hours for this course will be:
         </div>
 
         <div class="column">
-          <strong>EJ Jung</strong><br/>
-          <i class="fa-fw fas fa-calendar-alt "></i>
+          <strong>Sean Choi</strong><br/>
+          <!-- i class="fa-fw fas fa-calendar-alt "></i>
           <span>Tuesdays and some Thursdays, 11:45am-12:45pm</span>
-          <br/>
+          <br/->
 
-          <i class="fa-fw fas fa-calendar-alt "></i>
+          <!-- i class="fa-fw fas fa-calendar-alt "></i>
           <span>Wednesdays, 12-1pm</span>
-          <br/>
+          <br/-->
           
           <i class="fa-fw fas fa-calendar-alt "></i>
-          <span>and by appointments</span>
+          <span>and by appointments via Piazza</span>
           <br/>
 
 
-          <i class="fa-fw fas fa-signal-stream "></i>
+          <!-- i class="fa-fw fas fa-signal-stream "></i>
           Appointment Calendar: <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUw3eEFUQWZvRVdFfGRlZmF1bHR8MjI5MzY5MzUwMmJhNTIwMjliMjRhOTU2YjgwMjIzODg">sign up here</a>
-          <br/>
+          <br/-->
 
         </div>
       </div>
@@ -128,7 +128,7 @@ Below are important dates relevant to this class:
 |    | 08/18 | Fall 2020 classes begin. |
 |    | 08/24 | Last day to add classes online. |
 |    | 09/04 | Census date; last day to drop without a "W" appearing on transcript. |
-| 🚩 | 09/17 | Midterm 1; review session on Tuesday. |
+| 🚩 | 09/23 | Midterm 1; review session on Tuesday. |
 |    | 10/30 | Last day to withdraw from a class and receive a "W" on transcript. |
 | 🚩 | 10/22 | Midterm 2; rreview session on Tuesday. |
 |    | 11/23 | Beginning of a week-long Thanksgiving recess. |
