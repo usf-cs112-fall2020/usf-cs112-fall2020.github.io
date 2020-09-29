@@ -75,7 +75,7 @@ The instructor and instructor office hours for this course will be:
       <div class="columns is-mobile is-variable is-1">
         <div class="column is-narrow">
           <div class="image is-64x64">
-            <img class="is-rounded" src="https://www.cs.usfca.edu/~ejung/images/EunjinJung.png">
+            <img class="is-rounded" src="https://www.seanschoi.com/author/sean-choi/avatar_hu65cad1430e112cf5bd10fc93948ed5e4_260940_270x270_fill_q90_lanczos_center.jpg">
           </div>
         </div>
 
